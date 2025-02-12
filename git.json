@@ -1,0 +1,38 @@
+[
+    {
+        "ds_Parameter" : "TechShashi1/AW-Project-File/refs/heads/main/AdventureWorks_Product_Categories.csv",
+        "Ds_Parameter_folder" : "Product_Categories",
+        "ds_parameter_file" : "Product_Categories.csv"
+    },
+    {
+        "ds_Parameter" : "TechShashi1/AW-Project-File/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "Ds_Parameter_folder" : "Product_Subcategories",
+        "ds_parameter_file" : "Product_Subcategories.csv"
+    },
+    {
+        "ds_Parameter" : "TechShashi1/AW-Project-File/refs/heads/main/AdventureWorks_Calendar.csv",
+        "Ds_Parameter_folder" : "Calendar",
+        "ds_parameter_file" : "Calendar.csv"
+    },
+    {
+        "ds_Parameter" : "TechShashi1/AW-Project-File/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "Ds_Parameter_folder" : "Sales_2015",
+        "ds_parameter_file" : "Sales_2015.csv"
+    },
+    {
+        "ds_Parameter" : "TechShashi1/AW-Project-File/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "Ds_Parameter_folder" : "Sales_2016",
+        "ds_parameter_file" : "Sales_2016.csv"
+    },
+    {
+        "ds_Parameter" : "TechShashi1/AW-Project-File/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "Ds_Parameter_folder" : "Sales_2017",
+        "ds_parameter_file" : "Sales_2017.csv"
+    },
+    {
+        "ds_Parameter" : "TechShashi1/AW-Project-File/refs/heads/main/AdventureWorks_Territories.csv",
+        "Ds_Parameter_folder" : "Territories",
+        "ds_parameter_file" : "Territories.csv"
+    }
+
+]
